@@ -18,12 +18,12 @@ hr {
 }
 /**********************SELECTOR TAG's*********************/
 .h1-div {
-  color: #66BFBF;
+  color: #117878;
   font-family: 'Sacramento', cursive;
   font-size: 90px;
 }
 .h2-div {
-    color: #66BFBF;
+    color: #117878;
     font-size: 2rem;
     font-weight: normal;
     padding-bottom: 10px;
@@ -59,7 +59,7 @@ hr {
   width: 20%;
 }
 .div2h1 {
-  color: #66BFBF;
+  color: #117878;
   font-size: 35px;
   font-weight: normal;
 
@@ -72,13 +72,13 @@ hr {
 
 .h2div3 {
   font-size: 30px;
-  color: #66BFBF;
+  color: #117878;
   font-weight: normal;
   padding-bottom: 10px;
 
 }
 .h3div3-one {
-  color: #66BFBF;
+  color: #117878;
   text-align: left;
   margin: 7% 0 0 30%;
 }
@@ -100,7 +100,7 @@ hr {
   margin: 0 100px 0 0;
 }
 .h3div3-two {
-  color: #66BFBF;
+  color: #117878;
   text-align: left;
   margin: 7% 0 0 30%;
 }
@@ -114,13 +114,13 @@ hr {
 }
 .h2div4 {
   margin: 2% 42% 0;
-  color: #66BFBF;
+  color: #117878;
   font-size: 30px;
   font-style: normal;
   padding-bottom: 10px;
 }
 .h3div4 {
-  color: #66BFBF;
+  color: #117878;
 }
 .para1div4 {
   width: 40%;
@@ -128,7 +128,7 @@ hr {
   }
 .button {
   text-align: center;
-  background-color: #66BFBF;
+  background-color: #117878;
   font-size: 30px;
   border-style: none;
   border-radius: 8px;
@@ -136,7 +136,7 @@ hr {
 }
 .div5 {
   line-height: 2;
-  background-color: #66BFBF;
+  background-color: #117878;
   position: relative;
   height: 160px;
   padding-top: 2%; 
@@ -185,8 +185,8 @@ hr {
    vertical-align: middle;
    }
 .button:hover {
-   border-top-color: #66bfbf;
-   background: #66bfbf;
+   border-top-color: #117878;
+   background: #117878;
    color: #2bc4ad;
    }
 .button:active {
